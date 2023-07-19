@@ -7,7 +7,6 @@ package day01.solved;
  */
 class Movie {
 	public String title;
-	
 }
 
 public class TestBookComparison {

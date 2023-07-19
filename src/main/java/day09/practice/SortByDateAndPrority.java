@@ -74,9 +74,9 @@ public class SortByDateAndPrority {
          LocalDate input=LocalDate.of(2023,2,22);
 		Accounts acct1 = new Accounts(1, "Naresh", input,5);
 		 LocalDate input1=LocalDate.of(2023,2,24);
-		Accounts acct2 = new Accounts(2, "Arun", input1,5);
+		Accounts acct2 = new Accounts(2, "Ajay", input1,5);
 		 LocalDate input2=LocalDate.of(2023,2,23);
-		Accounts acct3 = new Accounts(4, "Karthik", input2,5);
+		Accounts acct3 = new Accounts(4, "Karthikraja", input2,5);
 		 LocalDate input3=LocalDate.of(2023,2,23);
 			Accounts acct4 = new Accounts(4, "kingston", input2,4);
 		List<Accounts> list = new ArrayList<Accounts>();
