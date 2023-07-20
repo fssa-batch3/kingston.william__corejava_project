@@ -53,10 +53,10 @@ public class AddUser {
 	public static void main(String[] args) {
 		
 		User user1 = new User(1,"king","king@gmail.com");
-		User user2 = new User(2,"kk","king@gmail.com");
+		User user2 = new User(2,"kk","kin@gmail.com");
 		
-		Account.register(user1);
-		Account.register(user2);
+		System.out.println(Account.register(user1));
+		System.out.println(Account.register(user2));
 		
 	}
 }

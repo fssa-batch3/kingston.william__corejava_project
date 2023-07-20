@@ -64,7 +64,7 @@ class Account implements Comparable<Account> {
 public class ComparableInterfaceDemo {
 	public static void main(String[] args) {
 
-		Account acct1 = new Account("A101", "Naresh", 1000);
+		Account acct1 = new Account("A101", "Kingston", 1000);
 		Account acct2 = new Account("A102", "Arun", 5000);
 		Account acct3 = new Account("A103", "Karthik", 3000);
 
