@@ -1,10 +1,10 @@
 package day02.practice;
 
 public class User {
-	private int id;
-	private String name;
-	private String password;
-	private String emailId;
+	public int id;
+	public String name;
+	public String password;
+	public String emailId;
 	
 	public int getId() {
 		return id;
